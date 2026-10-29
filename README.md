@@ -15,4 +15,4 @@ Document AI, Expo mobile app, Stripe billing, Docker deploys. ~860 commits. Priv
 
 Most of my recent work is in private repos. The public projects below are older side projects.
 
-[Portfolio](https://davor.obilinovic.codes.hr) · [LinkedIn](<your LinkedIn URL>)
+[Portfolio](https://davor.obilinovic.codes.hr) · [LinkedIn](https://www.linkedin.com/in/davor-obilinovi%C4%87-87b54949/)
